@@ -34,4 +34,30 @@
 <a href="https://example.com">
 </a>
 <img src="example.jpg" alt="Описание">
+
+---
+
+## Изученные теги и элементы
+
+### Основные теги структуры документа
+
+```html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Заголовок страницы</title>
+</head>
+<body>
+
+</body>
+</html>
+
 ```
+### Команды для Git:
+
+```bash
+git add .
+git commit -m "Added complete README for Lab5"
+git push
